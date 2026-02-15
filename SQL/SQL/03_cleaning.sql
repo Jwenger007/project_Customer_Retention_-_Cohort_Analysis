@@ -20,3 +20,7 @@ FROM raw.transactions
 WHERE customerid IS NOT NULL
   AND quantity > 0
   AND unitprice > 0;
+
+UPDATE clean.transactions
+SET customerid = REPLACE(customerid, '.0', '');
+
