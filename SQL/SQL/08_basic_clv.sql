@@ -28,4 +28,3 @@ FROM customer_revenue
 GROUP BY cohort_month
 ORDER BY cohort_month;
 
-SELECT * FROM analysis.clv_per_cohort;

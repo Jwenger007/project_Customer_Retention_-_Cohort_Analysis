@@ -23,4 +23,4 @@ SELECT
     ) AS repeat_purchase_rate_percentage
 FROM customer_orders;
 
-SELECT * FROM analysis.repeat_purchase_summary;
+

@@ -56,6 +56,3 @@ JOIN cohort_sizes cs
 GROUP BY w.cohort_month, w.months_since_first_purchase, cs.cohort_size
 ORDER BY w.cohort_month, w.months_since_first_purchase;
 
-
-SELECT * 
-FROM analysis.cohort_ltv_monthly;

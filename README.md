@@ -103,7 +103,7 @@ After cleaning, the dataset contained **397,880 valid transactions** used for an
 
 These KPIs summarize the overall customer behavior.
 
-- **Total Customers:** 4,338  
+- **Total Customers:** 4.338  
 - **Repeat Purchase Rate:** 65,65%  
 - **Average Orders per Customer:** 4,27  
 - **Average Customer Lifetime Value:** €2.054,27  

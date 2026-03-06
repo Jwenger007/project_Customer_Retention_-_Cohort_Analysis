@@ -36,4 +36,4 @@ JOIN cohort_sizes c
 ORDER BY r.cohort_month, r.months_since_first_purchase;
 
 
-SELECT * FROM analysis.cohort_retention;
+
