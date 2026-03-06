@@ -142,6 +142,9 @@ This allows us to track how many customers return in the months following their 
 - After the initial drop, retention stabilizes around **20–35%**.
 - This indicates the presence of a **loyal core group of repeat customers**.
 
+#### Note: 
+##### Later cohorts appear to have lower retention in later months because the dataset ends in December 2011. Customers acquired later simply have less time to generate repeat purchases. This effect is known as right-censoring.
+
 ---
 
 ## Customer Lifetime Value Curve
