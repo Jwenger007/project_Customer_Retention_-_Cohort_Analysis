@@ -115,9 +115,9 @@ These KPIs summarize the overall customer behavior.
 
 ![alt text](<charts/KPI (Avarage Orders per Customer).png>)
 
-![alt text](image.png)
-
 ![alt text](<charts/KPI card (Avarage Customer Lifetime Value).png>)
+
+![alt text](<charts/KPI (Total Revenue).png>)
 
 
 
@@ -173,7 +173,7 @@ Repeat purchasing behavior is a key indicator of customer retention.
 
 The dataset shows:
 
-**65.65% of customers make more than one purchase.**
+**65,65% of customers make more than one purchase.**
 
 This suggests that a majority of customers return after their initial order, which is typical for **B2B / wholesale retail environments**.
 
